@@ -1,4 +1,4 @@
-### Hi there 👋
+Contact me via <a rel="me" href="https://infosec.exchange/@b33f">Mastodon</a>
 
 <!--
 **b33f/b33f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
