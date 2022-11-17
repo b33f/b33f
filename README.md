@@ -1,4 +1,5 @@
-Contact me via [Mastodon](https://infosec.exchange/@b33f)
+Contact me via [Mastodon](https://infosec.exchange/@b33f) : <a rel="me" href="https://infosec.exchange/@b33f" target="_blank">@b33f@infosec.exchange</a>
+
 
 <!--
 **b33f/b33f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
